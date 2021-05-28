@@ -1,8 +1,9 @@
 # drop
 A Simple Game using LIBGDX _(LIBGDX Getting Started)_.
 
-[Source](https://libgdx.com/dev/simple-game/)
+[Source Link](https://libgdx.com/dev/simple-game/)
 
+![Screenshot](./imgs/screenshot.jpg)
 
 ## Description
 The game idea is very simple:
