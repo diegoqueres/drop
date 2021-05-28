@@ -12,3 +12,6 @@ The game idea is very simple:
  - Raindrops spawn randomly at the top of the screen every second and accelerate downwards.
  - Player can drag the bucket horizontally via the mouse/touch or move it via the left and right cursor keys.
  - The game has no end - think of it as a zen-like experience :)
+
+## Game play
+![Game play](./imgs/game_play.gif)
