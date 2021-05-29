@@ -14,4 +14,5 @@ The game idea is very simple:
  - The game has no end - think of it as a zen-like experience :)
 
 ## Game play
+Play game demo at: (https://drop-game-sample.herokuapp.com/)
 ![Game play](./imgs/game_play.gif)
